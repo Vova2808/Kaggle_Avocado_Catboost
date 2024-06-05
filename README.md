@@ -1,4 +1,4 @@
-# Предсказание цен на авакадо CatBoostRegressor
+# Предсказание цен на авокадо CatBoostRegressor
 
 ## CatBoostRegressor
 <img src="https://github.com/Vova2808/Kaggle_Avocado_Catboost/assets/96084748/7a79e460-5dd6-43f5-9413-b3a23a061e4c">
